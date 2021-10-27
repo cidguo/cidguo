@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cidguo
+- 👋 Hi, I’m Cindy
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently learning Computer Science.
 
